@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🌱 I’m currently learning how to shoot xrays at rocks to make pictures of them
+🔭 I’m currently working on quantifying changes in those rocks
+⚡ Fun fact: I find bugs more fascinating than rocks
+💬 Ask me about digital rock petrophysics
 <!--
 **tatenda263/tatenda263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

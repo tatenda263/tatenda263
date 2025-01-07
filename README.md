@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I’m currently learning how to manipulate images of digital rocks
-🔭 I’m currently working on trying to enhance CO2 mineralisation in rocks
+🔭 I’m currently learning how to manipulate images of digital rocks
+🌱 I’m currently working on trying to enhance CO2 mineralisation in rocks
 ⚡ Fun fact: I find bugs more fascinating than rocks
 💬 Ask me about digital rock petrophysics
 <!--
